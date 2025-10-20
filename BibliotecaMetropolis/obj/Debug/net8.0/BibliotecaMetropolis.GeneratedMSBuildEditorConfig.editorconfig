@@ -17,41 +17,141 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BibliotecaMetropolis
 build_property.RootNamespace = BibliotecaMetropolis
-build_property.ProjectDir = C:\Users\Owner\source\repos\BibliotecaMetropolis\BibliotecaMetropolis\
+build_property.ProjectDir = C:\Users\Edgar Mejia\source\repos\Caso-de-Estudio-Final_DSP\BibliotecaMetropolis\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Owner\source\repos\BibliotecaMetropolis\BibliotecaMetropolis
+build_property.MSBuildProjectDirectory = C:\Users\Edgar Mejia\source\repos\Caso-de-Estudio-Final_DSP\BibliotecaMetropolis
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Owner/source/repos/BibliotecaMetropolis/BibliotecaMetropolis/Views/Home/Index.cshtml]
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Autores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Autores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Autores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Autores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Autores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Editoriales/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdG9yaWFsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Editoriales/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdG9yaWFsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Editoriales/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdG9yaWFsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Editoriales/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdG9yaWFsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Editoriales/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdG9yaWFsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Etiquetas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Etiquetas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Etiquetas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Etiquetas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Etiquetas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXRpcXVldGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/source/repos/BibliotecaMetropolis/BibliotecaMetropolis/Views/Home/Privacy.cshtml]
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/source/repos/BibliotecaMetropolis/BibliotecaMetropolis/Views/Shared/Error.cshtml]
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Paises/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Paises/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Paises/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Paises/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Paises/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFpc2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Recursos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjdXJzb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Recursos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjdXJzb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Recursos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjdXJzb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Recursos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjdXJzb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Recursos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjdXJzb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/source/repos/BibliotecaMetropolis/BibliotecaMetropolis/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/source/repos/BibliotecaMetropolis/BibliotecaMetropolis/Views/_ViewImports.cshtml]
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/source/repos/BibliotecaMetropolis/BibliotecaMetropolis/Views/_ViewStart.cshtml]
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/source/repos/BibliotecaMetropolis/BibliotecaMetropolis/Views/Shared/_Layout.cshtml]
+[C:/Users/Edgar Mejia/source/repos/Caso-de-Estudio-Final_DSP/BibliotecaMetropolis/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-t8ltr9lmu7
