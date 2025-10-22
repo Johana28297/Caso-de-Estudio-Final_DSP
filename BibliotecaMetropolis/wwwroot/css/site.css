@@ -1,81 +1,22 @@
-/* ======== ESTILO GENERAL BIBLIOTECA METRÓPOLIS ======== */
-
-html, body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    background-color: #f9f3e6; /* Fondo arena claro */
-    color: #333;
-    font-family: 'Segoe UI', sans-serif;
-    display: flex;
-    flex-direction: column;
+html {
+  font-size: 14px;
 }
 
-
-/* ======== ENCABEZADO ======== */
-header {
-    background-color: #1c3879;
-    color: white;
-    padding: 20px 40px;
-    text-align: center;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
 }
 
-    header h1 {
-        margin: 0;
-        font-size: 28px;
-    }
-
-/* ======== MENÚ DE NAVEGACIÓN ======== */
-nav {
-    background-color: #607eaa;
-    display: flex;
-    justify-content: center;
-    padding: 10px 0;
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
-    nav ul {
-        list-style: none;
-        display: flex;
-        gap: 30px;
-        margin: 0;
-        padding: 0;
-    }
-
-        nav ul li a {
-            color: white;
-            text-decoration: none;
-            font-weight: 500;
-            transition: 0.3s;
-        }
-
-            nav ul li a:hover {
-                color: #e6b325;
-            }
-
-/* ======== CONTENIDO PRINCIPAL ======== */
-main {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    padding: 40px 0;
+html {
+  position: relative;
+  min-height: 100%;
 }
 
-.container {
-    width: 90%;
-    max-width: 1100px;
-    background: #fff;
-    padding: 30px 40px;
-    border-radius: 15px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    margin-bottom: 40px;
-}
-
-
-h1, h2, h3 {
-    color: #1c3879;
-    border-bottom: 2px solid #e6b325;
-    padding-bottom: 5px;
-    margin-bottom: 20px;
+body {
+  margin-bottom: 60px;
 }
