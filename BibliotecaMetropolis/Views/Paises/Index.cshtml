@@ -1,17 +1,13 @@
 ﻿@model IEnumerable<BibliotecaMetropolis.Models.Pais>
 
 @{
-    ViewData["Title"] = "PAISES";
+    ViewData["Title"] = "Index";
 }
-<div class="container">
-    <h2>@ViewData["Title"]</h2>
-    <hr style="border: 1px solid #e6b325;">
 
-<h1>Index</h1>
+<h1>PAISES</h1>
 
 <p>
-    <a asp-action="Create" class="btn btn-primary">➕ Nuevo Pais</a>
-
+    <a asp-action="Create">Crear Nuevo</a>
 </p>
 <table class="table">
     <thead>
@@ -29,13 +25,11 @@
                 @Html.DisplayFor(modelItem => item.Nombre)
             </td>
             <td>
-<a asp-action="Edit" asp-route-id="item.Id" class="btn btn-warning btn-sm">Editar</a>
-<a asp-action="Details" asp-route-id="item.Id" class="btn btn-info btn-sm">Detalles</a>
-<a asp-action="Delete" asp-route-id="item.Id" class="btn btn-danger btn-sm">Eliminar</a>
-
+                <a asp-action="Edit" asp-route-id="@item.IdPais">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.IdPais">Detalle</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdPais">Eliminar</a>
             </td>
         </tr>
 }
     </tbody>
 </table>
-</div>
