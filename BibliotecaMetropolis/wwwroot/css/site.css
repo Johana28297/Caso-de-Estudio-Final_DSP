@@ -1,12 +1,16 @@
 /* ======== ESTILO GENERAL BIBLIOTECA METRÓPOLIS ======== */
 
-body {
-    font-family: 'Segoe UI', sans-serif;
-    background-color: #232946;
+html, body {
+    height: 100%;
     margin: 0;
     padding: 0;
-    color: #333333;
+    background-color: #f9f3e6; /* Fondo arena claro */
+    color: #333;
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    flex-direction: column;
 }
+
 
 /* ======== ENCABEZADO ======== */
 header {
@@ -50,14 +54,24 @@ nav {
             }
 
 /* ======== CONTENIDO PRINCIPAL ======== */
-.container {
-    max-width: 1100px;
-    margin: 40px auto;
-    background: white;
-    padding: 30px;
-    border-radius: 12px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 40px 0;
 }
+
+.container {
+    width: 90%;
+    max-width: 1100px;
+    background: #fff;
+    padding: 30px 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    margin-bottom: 40px;
+}
+
 
 h1, h2, h3 {
     color: #1c3879;
@@ -110,12 +124,13 @@ input, select, textarea {
 
 /* ======== PIE DE PÁGINA ======== */
 footer {
-    background-color: #1c3879;
-    color: white;
+    background-color: #003049; /* o el color que uses para el menú */
+    color: #fff;
     text-align: center;
-    padding: 15px;
-    margin-top: 50px;
+    padding: 20px 0;
     font-size: 14px;
+    margin-top: auto;
+    box-shadow: 0 -2px 6px rgba(0,0,0,0.1);
 }
 
 a.btn-link {
@@ -164,3 +179,58 @@ a.btn-link {
 .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%28230,179,37, 0.9%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
 }
+/* ======== BOTONES DE ACCIÓN CRUD ======== */
+.btn {
+    display: inline-block;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    border: none;
+}
+
+/* Botón principal (ej. Create) */
+.btn-primary {
+    background-color: #e6b325;
+    color: #fff;
+}
+
+    .btn-primary:hover {
+        background-color: #cf9d1a;
+        transform: translateY(-2px);
+    }
+
+/* Botón de edición (Edit) */
+.btn-warning {
+    background-color: #ffb703;
+    color: #fff;
+}
+
+    .btn-warning:hover {
+        background-color: #e6a500;
+        transform: translateY(-2px);
+    }
+
+/* Botón de eliminar (Delete) */
+.btn-danger {
+    background-color: #d62828;
+    color: #fff;
+}
+
+    .btn-danger:hover {
+        background-color: #b71d1d;
+        transform: translateY(-2px);
+    }
+
+/* Botón de detalles (Details) */
+.btn-info {
+    background-color: #0077b6;
+    color: #fff;
+}
+
+    .btn-info:hover {
+        background-color: #023e8a;
+        transform: translateY(-2px);
+    }
