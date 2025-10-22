@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\models\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\models\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\views\\recursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\views\\recursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\views\\paises\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\views\\paises\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\views\\etiquetas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\views\\etiquetas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\views\\autores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\views\\autores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\views\\editoriales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\views\\editoriales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 715,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +66,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BibliotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Models\\BibliotecaContext.cs",
+              "RelativeDocumentMoniker": "BibliotecaMetropolis\\Models\\BibliotecaContext.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Models\\BibliotecaContext.cs",
+              "RelativeToolTip": "BibliotecaMetropolis\\Models\\BibliotecaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:35:46.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotecaMetropolis\\Program.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Program.cs",
+              "RelativeToolTip": "BibliotecaMetropolis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:32:56.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\appsettings.json",
+              "RelativeDocumentMoniker": "BibliotecaMetropolis\\appsettings.json",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\appsettings.json*",
+              "RelativeToolTip": "BibliotecaMetropolis\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T14:28:31.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaMetropolis\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BibliotecaMetropolis\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T14:11:51.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Paises\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaMetropolis\\Views\\Paises\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Paises\\Index.cshtml",
+              "RelativeToolTip": "BibliotecaMetropolis\\Views\\Paises\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T02:13:27.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Etiquetas\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaMetropolis\\Views\\Etiquetas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Etiquetas\\Index.cshtml",
+              "RelativeToolTip": "BibliotecaMetropolis\\Views\\Etiquetas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T02:12:57.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Recursos\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaMetropolis\\Views\\Recursos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Recursos\\Index.cshtml",
+              "RelativeToolTip": "BibliotecaMetropolis\\Views\\Recursos\\Index.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T02:10:50.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BibliotecaMetropolis\\Views\\Shared\\_Layout.cshtml",
@@ -39,15 +170,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "BibliotecaMetropolis\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\wwwroot\\css\\site.css*",
-              "RelativeToolTip": "BibliotecaMetropolis\\wwwroot\\css\\site.css*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BibliotecaMetropolis\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAALUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-10-22T00:54:26.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Autores\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaMetropolis\\Views\\Autores\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Autores\\Index.cshtml",
+              "RelativeToolTip": "BibliotecaMetropolis\\Views\\Autores\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T02:12:05.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Editoriales\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaMetropolis\\Views\\Editoriales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Editoriales\\Index.cshtml",
+              "RelativeToolTip": "BibliotecaMetropolis\\Views\\Editoriales\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T02:12:41.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaMetropolis\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BibliotecaMetropolis\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T02:13:17.338Z",
               "EditorCaption": ""
             }
           ]
