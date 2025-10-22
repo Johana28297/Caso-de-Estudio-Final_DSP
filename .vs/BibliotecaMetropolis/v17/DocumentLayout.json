@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|c:\\users\\aleja\\onedrive\\escritorio\\dsproyec\\bibliotecametropolis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51E52EC-1AAD-4356-9E76-AC81159BC144}|BibliotecaMetropolis\\BibliotecaMetropolis.csproj|solutionrelative:bibliotecametropolis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 715,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaMetropolis\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BibliotecaMetropolis\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T00:54:46.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BibliotecaMetropolis\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\dsproyec\\BibliotecaMetropolis\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "BibliotecaMetropolis\\wwwroot\\css\\site.css*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-22T00:54:26.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
